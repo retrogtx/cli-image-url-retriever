@@ -24,7 +24,7 @@ Made this after seeing this [idea list](https://www.ishan.coffee/notes/Idea-List
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/image-uploader-cli.git
+   git clone https://github.com/retrogtx/image-uploader-cli.git
    cd image-uploader-cli
    ```
 
